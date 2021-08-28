@@ -1,0 +1,67 @@
+.code-background {
+  padding: 15px;
+  border-radius: 15px;
+  height: auto;
+  background-color: var(--frame-color);
+  transform-style: preserve-3d;
+}
+.code-bg-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.input-area{
+  display: flex;
+  align-items: center;
+  color: var(--main-color);
+  display: none;
+  transition: .8s;
+}
+.code-background:hover .input-area{
+  display: block;
+  transition: .8s;
+}
+.input-area input{
+  background: transparent;
+  color: var(--main-color);
+  outline: none;
+  padding: 5px;
+  margin-right: 5px;
+  border: 1px dashed var(--main-color);
+}
+.dots {
+  display: flex;
+  align-items: center;
+  margin-bottom: 13px;
+}
+.dot-1 {
+  background-color: #f24f55;
+  width:17px;
+  border-radius: 50%;
+  height:17px;
+  margin-right: 5px;
+}
+.dot-2 {
+  width:17px;
+  border-radius: 50%;
+  height:17px;
+  margin-right: 5px;
+}
+.dot-3 {
+  background-color: #049b13;
+  width:17px;
+  height:17px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.codee {
+  border-radius: 5px !important;
+  font-size: 16px;
+  outline: none;
+  background: transparent !important;
+  padding: 0 !important;
+}
+.codee div {
+  background: transparent !important;
+}

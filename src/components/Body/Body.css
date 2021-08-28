@@ -1,0 +1,168 @@
+.app-body-area {
+  border: 3px solid #a000ff;
+  margin-top: 30px;
+  border-radius: 10px;
+  padding: 10px 10px;
+  margin-bottom: 40px;
+}
+
+.code-body {
+  margin-top: 15px;
+  /* width: 45%; */
+  margin: auto;
+}
+
+.content-code{
+  width:70%;
+  margin:auto;
+}
+.code {
+  padding: 20px;
+  border-radius: 10px;
+  color: var(--main-color);
+  outline:none;
+  height:200px;
+  width:95%;
+}
+.btn-submit{
+  margin:20px 0;
+  padding:12px;
+  border: none;
+  outline: none;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-weight: bold;
+  width:200px;
+  float:right;
+  cursor:pointer;
+  background-color: var(--main-color);
+}
+.btn-submit:hover{
+  opacity: .9;
+}
+
+/* =============== App bar ============= */
+.appbar-area {
+  border-radius: 8px;
+  padding: 2px;
+  color: #fff;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: initial;
+  justify-content: center;  
+  align-items: center;
+}
+.flex-items{
+  display: flex;
+  align-items: center;
+}
+.app-bar-inner {
+  align-items: center;
+  display: flex;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.style {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  margin-right: 3px;
+}
+.flex h4 {
+  font-size: 14px;
+  font-weight: 400;
+}
+.tranquil {
+  background-image: linear-gradient(#eecda3, #ef629f);
+}
+.gb {
+  background-image: linear-gradient(#02aab0, #00cdac);
+}
+.Aubergine {
+  background-image: linear-gradient(#aa076b, #61045f);
+}
+
+.dk {
+  background-image: linear-gradient(#4b79a1, #283e51);
+}
+.newlife {
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+
+.pp {
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+.lk {
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+.si {
+  background-image: linear-gradient(to top, #b224ef 0%, #7579ff 100%);
+}
+.nc {
+  background-image: linear-gradient(
+    -225deg,
+    #ac32e4 0%,
+    #7918f2 48%,
+    #5826d8 100%
+  );
+}
+
+/* ==================== for theme  */
+.atom-dark{
+  background-color: #1d1f21;
+}
+.darcula{
+  background-color: #2b2b2b;
+}
+.dracula{
+  background-color: #282a36;
+}
+.dDark{
+  background-color: #2a2734;
+}
+.okaidia{
+  background-color: #272822;
+}
+.nord{
+  background-color: #2e3440;
+}
+.md{
+  background-color: #2f2f2f;
+}
+.tomorrow{
+  background-color: #2d2d2d;
+}
+
+.npm__react-simple-code-editor__textarea {
+  cursor: auto;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.save{
+padding: 10px 30px;
+border-radius: 3px;
+cursor: pointer;
+}
+.save:hover{
+  opacity: .8;
+}
+.save-icon{
+  font-size: 30px;
+}
+
+.input-range{
+  width: 99.5%;
+}
+
+/* ================================== responsive ================================== */
+@media screen and (max-width:992px) {
+  .app-bar-inner{
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,21 @@
+.header-area{
+    margin-top: 20px;
+}
+.header-logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo-icon{
+    font-size: 60px;
+    color: #a000ff;
+}
+.header-area h3{
+    font-size: 40px;
+    margin-left: 5px;
+    color: #a000ff;
+}
+.header-area p{
+    font-size: 20px;
+    color: #a000ff;
+}
