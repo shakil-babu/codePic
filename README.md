@@ -14,5 +14,31 @@ A simple and beautiful app for create screenshot of your source code. It's easy 
 ## - Usages -
 After visit [codepic](https://codepic.vercel.app), first you can see the UI like below -
 
-[](https://i.ibb.co/3Fcr96N/fiirst.png)
+![img](https://i.ibb.co/3Fcr96N/fiirst.png)
 
+Then, you have to write or paste code, After wrote or paste you'll see a button called submit. Then, click the button and see - 
+
+![img](https://i.ibb.co/dt3vhLw/2nd.png)
+
+Now you've some of options whices are already mentioned top of the page. If you need to customize you can with the help of appbar options.
+
+You can easily change code background , theme, width, language and padding. after complete customization easily can save with the help of icon button.
+
+## - Some shots using codepic -
+
+**JavaScript Code**
+![img](https://i.ibb.co/880xcCN/shakil-babur-jhuli-printer.png)
+
+**CSS Code**
+![img](https://i.ibb.co/2cmTxVV/codepic-5.png)
+
+**Express Code**
+![img](https://i.ibb.co/0MGDhrW/codepic-3.png)
+
+
+And more please without any kind of hesitation visit this app and create your beautiful shots.
+
+
+```
+Created by @shakil babu
+```
