@@ -209,7 +209,7 @@ const Appbar = ({ themeData, languageData, bgData, screenshot, pad, rangeSlider}
 
       </section>
       <Slider
-          min={45}
+          min={32}
           max={92}
           value={dwidth}
           onChangeStart={handleChangeStart}

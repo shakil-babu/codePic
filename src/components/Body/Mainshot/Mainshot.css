@@ -65,3 +65,7 @@
 .codee div {
   background: transparent !important;
 }
+
+.console{
+  text-decoration: none !important;
+}
