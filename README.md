@@ -8,6 +8,9 @@ A simple and beautiful app for create screenshot of your source code. It's easy 
 
 4. **Padding** - In background color, you can assign padding if you want There are more than 4 padding options.
 
+5. **Width** - You can set width based on your source code.
+6. **Image** - can change a image title using this feature.
+
 ## - Live preview -
 [view codepic](https://codepic.vercel.app)
 
