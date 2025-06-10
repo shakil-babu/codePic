@@ -1,31 +1,30 @@
 ## - codePic -
-A simple and beautiful app for create screenshot of your source code. It's easy to use, There are some of options like background, themes, width, language etc.
+A simple and beautiful app to create screenshots of your source code. It's easy to use and includes several customization options like background, themes, width, language, and more.
 
 ## - Features -
-1. **Background** - can change a code background using this feature.
-2. **Theme** - Also can change a theme with the help of this option.
-3. **Language** - There are more than 26 languages to customize your code. Easily you can create a screenshot based on your source code and language.
+1. **Background** - You can change the background color of your code snippet.
+2. **Theme** - Easily switch between different themes to style your code.
+3. **Language** - Supports more than 26 programming languages. You can select your preferred language to format your code accordingly.
+4. **Padding** - You can add padding to your code block. There are more than 4 padding options available.
 
-4. **Padding** - In background color, you can assign padding if you want There are more than 4 padding options.
-
-5. **Width** - You can set width based on your source code.
-6. **Image** - can change a image title using this feature.
+5. **Width** - Set the width of your code block based on your content.
+6. **Image** - You can customize the image title using this feature.
 
 ## - Live preview -
 [view codepic](https://codepic.vercel.app)
 
 ## - Usages -
-After visit [codepic](https://codepic.vercel.app), first you can see the UI like below -
+After visiting [codepic](https://codepic.vercel.app), you’ll see a user interface like this:
 
 ![img](https://i.ibb.co/3Fcr96N/fiirst.png)
 
-Then, you have to write or paste code, After wrote or paste you'll see a button called submit. Then, click the button and see - 
+Next, write or paste your source code into the editor. Once you’ve entered your code, you’ll see a Submit button. Click it, and you'll get an output like this: 
 
 ![img](https://i.ibb.co/dt3vhLw/2nd.png)
 
-Now you've some of options whices are already mentioned top of the page. If you need to customize you can with the help of appbar options.
+At this point, you can start customizing your code snippet using the options available in the app bar.
 
-You can easily change code background , theme, width, language and padding. after complete customization easily can save with the help of icon button.
+You can easily change the code background, theme, width, language, and padding. After completing your customization, click the download icon button to save your beautiful code shot.
 
 ## - Some shots using codepic -
 
@@ -39,9 +38,9 @@ You can easily change code background , theme, width, language and padding. afte
 ![img](https://i.ibb.co/0MGDhrW/codepic-3.png)
 
 
-And more please without any kind of hesitation visit this app and create your beautiful shots.
+Explore CodePic without any hesitation and create your stunning code screenshots with ease!
 
 
 ```
-Created by @shakil babu
+Created by @sakil babu
 ```

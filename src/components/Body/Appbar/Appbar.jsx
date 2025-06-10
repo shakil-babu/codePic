@@ -1,4 +1,3 @@
-import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import InputLabel from "@material-ui/core/InputLabel";
 import MenuItem from "@material-ui/core/MenuItem";
@@ -6,7 +5,8 @@ import FormControl from "@material-ui/core/FormControl";
 import Select from "@material-ui/core/Select";
 import {HiOutlineSave} from 'react-icons/hi';
 import Slider from 'react-rangeslider'
-// for selector
+
+// Style selector 
 const useStyles = makeStyles((theme) => ({
   formControl: {
     margin: theme.spacing(1),
